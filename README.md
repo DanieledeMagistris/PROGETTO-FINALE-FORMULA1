@@ -1,32 +1,47 @@
-📊 Formula 1 Ferrari Analysis
-Un progetto di Data Analysis nato per un corso universitario, che esplora la storia e le performance recenti della Scuderia Ferrari in Formula 1.
-Attraverso diverse dashboard interattive realizzate in Power BI, vengono analizzati:
+# 📊 Progetto di Data Analysis sulla Formula 1 – Ferrari (1950–2024)
 
--La storia della Ferrari in Formula 1
+Questo progetto è stato realizzato come parte del mio percorso di studi per la certificazione come Data Analyst.  
+Utilizzando **Power BI** ho costruito una serie di dashboard interattive per analizzare e raccontare la storia recente e passata della Scuderia Ferrari in Formula 1, confrontandola con i top team.
 
--Le stagioni 2023 e 2024
+---
 
--Un confronto diretto con i top team (Red Bull, Mercedes, McLaren, ecc.)
+## 🏎️ **Obiettivi del progetto**
+- Analizzare le performance storiche della Ferrari in F1 dal 1950 al 2024.
+- Approfondire i dati della stagione 2023 e 2024, con focus su:
+  - Qualifiche
+  - Pit-stop
+  - Risultati gara
+- Confrontare le performance Ferrari con altri top team (McLaren, Mercedes, Red Bull) tramite filtri interattivi.
 
-🛠 Tecnologie utilizzate
-Power BI: pulizia dati, creazione di dashboard e report interattivi
+---
 
-Excel: pulizia e trasformazione preliminare dei dati in supporto
+## 📂 **Struttura del progetto**
+- **Sezione 1**: Analisi storica Ferrari (1950–2024)
+- **Sezione 2**: Stagione 2023 (qualifiche, pit-stop, risultati dei piloti Ferrari)
+- **Sezione 3**: Stagione 2024 (stesse analisi per l'anno in corso)
+- **Sezione 4**: Confronto Ferrari vs McLaren / Mercedes / Red Bull (dati 2023 e 2024)
 
-📦 Dataset
-Il progetto utilizza dati storici (stagioni passate sal 1958 al 2024) e dati recenti delle stagioni 2023 e 2024.
-I dati provengono da dataset pubblici (es. Kaggle, Ergast API).
+---
 
-✨ Funzionalità principali
-Dashboard sulla storia completa della Ferrari in Formula 1
+## 🛠 **Tecnologie e fonti dati**
+- **Strumento di visualizzazione**: Power BI
+- **Fonti dati**:
+  - [Ergast API](https://ergast.com/mrd/)
+  - Dataset pubblici da [Kaggle](https://www.kaggle.com/)
 
-Analisi dettagliata delle stagioni 2023 e 2024
+---
 
-Confronto delle performance Ferrari con i top team
+## 💡 **Perché l’ho realizzato**
+- Mettere in pratica le competenze acquisite in **data analysis e data visualization**
+- Applicare la mia passione per la Formula 1 a un progetto reale
+- Imparare a gestire dataset storici e recenti, creando insight utili per analisi sportiva
 
-Indicatori chiave: pole position, vittorie, punti, podi, ecc.
+---
 
-Visualizzazioni dinamiche: filtri per pilota, stagione e circuito
+## 📞 **Contatti**
+Se vuoi saperne di più o darmi un feedback, contattami su [LinkedIn] www.linkedin.com/in/daniele-de-magistris-064578248
+
+ o via email: danieledm885@gmail.com
 
 📚 Note
 -Questo progetto ha scopo didattico.
